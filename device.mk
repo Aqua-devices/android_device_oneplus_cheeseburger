@@ -23,7 +23,6 @@
 #
 
 $(call inherit-product, vendor/oneplus/cheeseburger/cheeseburger-vendor.mk)
-$(call inherit-product, vendor/aquarios/config/utils.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
